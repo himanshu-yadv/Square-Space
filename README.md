@@ -4,30 +4,30 @@ The "Square-Space Terminal Interface" is a terminal-based shopping cart applicat
 
 Key Features
 Welcome Interface:
-
 A welcoming message for the user.
+
 User Interaction:
 
 Prompt for user's name.
 Menu options for displaying the cart, adding items to the cart, deleting items from the cart, and confirming the order.
+
 Product Categories:
-
 The application includes a variety of categories such as Electronics, Apparel, Footwear, Consumables, Home Decor, Toys, Jewellery, Books, Health, and Personal Care & Beauty.
+
 Adding Items to Cart:
-
 Users can browse items in a selected category and add their desired items to the shopping cart with specified quantities.
+
 Displaying Cart:
-
 Users can view the items in their cart along with the quantity and total price of each item.
-Deleting Items from Cart:
 
+Deleting Items from Cart:
 Users can delete specified quantities of items or remove items entirely from their cart.
 Order Confirmation:
 
 Upon confirmation, the application calculates and displays the total amount due for the items in the cart and thanks the user for shopping.
 Technologies and Concepts Used
-C++ Programming:
 
+C++ Programming:
 Utilizes standard input/output for user interaction.
 Employs the C++ Standard Library (<iostream>, <map>, <vector>) for data management and operations.
 Data Structures:
